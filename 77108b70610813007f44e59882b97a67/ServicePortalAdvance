@@ -1,0 +1,1365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+-<unload unload_date="2020-10-23 18:23:47">
+
+
+-<sys_remote_update_set action="INSERT_OR_UPDATE">
+
+<application display_value="Global">global</application>
+
+<application_name>Global</application_name>
+
+<application_scope>global</application_scope>
+
+<application_version/>
+
+<collisions/>
+
+<commit_date/>
+
+<deleted/>
+
+<description/>
+
+<inserted/>
+
+<name>Service Portal Advance class - global</name>
+
+<origin_sys_id/>
+
+<parent display_value=""/>
+
+<release_date/>
+
+<remote_base_update_set display_value=""/>
+
+<remote_parent_id/>
+
+<remote_sys_id>df868689e54060107f4423e301331cf9</remote_sys_id>
+
+<state>loaded</state>
+
+<summary/>
+
+<sys_class_name>sys_remote_update_set</sys_class_name>
+
+<sys_created_by>admin</sys_created_by>
+
+<sys_created_on>2020-10-23 18:23:47</sys_created_on>
+
+<sys_id>3a057f15e54c60107f4423e301331cec</sys_id>
+
+<sys_mod_count>0</sys_mod_count>
+
+<sys_updated_by>admin</sys_updated_by>
+
+<sys_updated_on>2020-10-23 18:23:47</sys_updated_on>
+
+<update_set display_value=""/>
+
+<update_source display_value=""/>
+
+<updated/>
+
+</sys_remote_update_set>
+
+
+-<sys_update_xml action="INSERT_OR_UPDATE">
+
+<action>INSERT_OR_UPDATE</action>
+
+<application display_value="Global">global</application>
+
+<category>customer</category>
+
+<comments/>
+
+<name>sys_ui_section_155f0b59e50c60107f4423e301331c86</name>
+
+
+-<payload>
+
+-<![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="155f0b59e50c60107f4423e301331c86" sys_domain="global" table="u_instance_of_kb_articles_events" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>title</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 15:39:01</sys_created_on><sys_id>195f0b59e50c60107f4423e301331c87</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_instance_of_kb_articles_events" sys_domain="global" view="Default view">155f0b59e50c60107f4423e301331c86</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 15:39:01</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>roles</element><position>11</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 15:39:01</sys_created_on><sys_id>9d5f0b59e50c60107f4423e301331c87</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_instance_of_kb_articles_events" sys_domain="global" view="Default view">155f0b59e50c60107f4423e301331c86</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 15:39:01</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.begin_split</element><position>21</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 15:39:01</sys_created_on><sys_id>155f0b59e50c60107f4423e301331c88</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_instance_of_kb_articles_events" sys_domain="global" view="Default view">155f0b59e50c60107f4423e301331c86</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 15:39:01</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>31</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 15:39:01</sys_created_on><sys_id>995f0b59e50c60107f4423e301331c88</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_instance_of_kb_articles_events" sys_domain="global" view="Default view">155f0b59e50c60107f4423e301331c86</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 15:39:01</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>sys_scope</element><position>41</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 15:39:01</sys_created_on><sys_id>115f0b59e50c60107f4423e301331c89</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_instance_of_kb_articles_events" sys_domain="global" view="Default view">155f0b59e50c60107f4423e301331c86</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 15:39:01</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>51</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 15:39:01</sys_created_on><sys_id>955f0b59e50c60107f4423e301331c89</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_instance_of_kb_articles_events" sys_domain="global" view="Default view">155f0b59e50c60107f4423e301331c86</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 15:39:01</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>u_instance_of_kb_articles_events</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 15:39:01</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>155f0b59e50c60107f4423e301331c86</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_instance_of_kb_articles_events</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ui_section_155f0b59e50c60107f4423e301331c86</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 15:39:01</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]>
+</payload>
+
+<payload_hash>-704658646</payload_hash>
+
+<remote_update_set display_value="Service Portal Advance class - global">3a057f15e54c60107f4423e301331cec</remote_update_set>
+
+<replace_on_upgrade>false</replace_on_upgrade>
+
+<sys_created_by>admin</sys_created_by>
+
+<sys_created_on>2020-10-23 18:23:47</sys_created_on>
+
+<sys_id>32057f15e54c60107f4423e301331cf0</sys_id>
+
+<sys_mod_count>0</sys_mod_count>
+
+<sys_recorded_at>175561cfc4e0000001</sys_recorded_at>
+
+<sys_updated_by>admin</sys_updated_by>
+
+<sys_updated_on>2020-10-23 18:23:47</sys_updated_on>
+
+<table>u_instance_of_kb_articles_events</table>
+
+<target_name>Instance of KB Articles - Events</target_name>
+
+<type>Form Layout</type>
+
+<update_domain>global</update_domain>
+
+<update_guid>115f0b59930c6010e203f1ffb2e2318b</update_guid>
+
+<update_guid_history>115f0b59930c6010e203f1ffb2e2318b:-704658646</update_guid_history>
+
+<update_set display_value=""/>
+
+<view/>
+
+</sys_update_xml>
+
+
+-<sys_update_xml action="INSERT_OR_UPDATE">
+
+<action>INSERT_OR_UPDATE</action>
+
+<application display_value="Global">global</application>
+
+<category>customer</category>
+
+<comments/>
+
+<name>sys_security_acl_role_e62f0759e50c60107f4423e301331cf9</name>
+
+
+-<payload>
+
+-<![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 15:38:17</sys_created_on><sys_id>e62f0759e50c60107f4423e301331cf9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_instance_of_kb_articles_events.u_instance_of_kb_articles_events_user</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_security_acl display_value="u_instance_of_kb_articles_events">ae2f0759e50c60107f4423e301331cf4</sys_security_acl><sys_update_name>sys_security_acl_role_e62f0759e50c60107f4423e301331cf9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 15:38:17</sys_updated_on><sys_user_role display_value="u_instance_of_kb_articles_events_user" name="u_instance_of_kb_articles_events_user">de2f4359e50c60107f4423e301331c52</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]>
+</payload>
+
+<payload_hash>2140380827</payload_hash>
+
+<remote_update_set display_value="Service Portal Advance class - global">3a057f15e54c60107f4423e301331cec</remote_update_set>
+
+<replace_on_upgrade>false</replace_on_upgrade>
+
+<sys_created_by>admin</sys_created_by>
+
+<sys_created_on>2020-10-23 18:23:47</sys_created_on>
+
+<sys_id>36057f15e54c60107f4423e301331cef</sys_id>
+
+<sys_mod_count>0</sys_mod_count>
+
+<sys_recorded_at>175561c4f7a0000001</sys_recorded_at>
+
+<sys_updated_by>admin</sys_updated_by>
+
+<sys_updated_on>2020-10-23 18:23:47</sys_updated_on>
+
+<table>u_instance_of_kb_articles_events</table>
+
+<target_name>u_instance_of_kb_articles_events.u_instance_of_kb_articles_events_user</target_name>
+
+<type>Access Roles</type>
+
+<update_domain>global</update_domain>
+
+<update_guid>262f0759f40c6010ea24dae247b433fc</update_guid>
+
+<update_guid_history>262f0759f40c6010ea24dae247b433fc:2140380827</update_guid_history>
+
+<update_set display_value=""/>
+
+<view/>
+
+</sys_update_xml>
+
+
+-<sys_update_xml action="INSERT_OR_UPDATE">
+
+<action>INSERT_OR_UPDATE</action>
+
+<application display_value="Global">global</application>
+
+<category>customer</category>
+
+<comments/>
+
+<name>sys_security_acl_e22f0759e50c60107f4423e301331cfd</name>
+
+
+-<payload>
+
+-<![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on u_instance_of_kb_articles_events</description><name>u_instance_of_kb_articles_events</name><operation display_value="read">read</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 15:38:17</sys_created_on><sys_id>e22f0759e50c60107f4423e301331cfd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_instance_of_kb_articles_events</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_security_acl_e22f0759e50c60107f4423e301331cfd</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 15:38:17</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]>
+</payload>
+
+<payload_hash>30395161</payload_hash>
+
+<remote_update_set display_value="Service Portal Advance class - global">3a057f15e54c60107f4423e301331cec</remote_update_set>
+
+<replace_on_upgrade>false</replace_on_upgrade>
+
+<sys_created_by>admin</sys_created_by>
+
+<sys_created_on>2020-10-23 18:23:47</sys_created_on>
+
+<sys_id>3a057f15e54c60107f4423e301331cee</sys_id>
+
+<sys_mod_count>0</sys_mod_count>
+
+<sys_recorded_at>175561c4fa30000001</sys_recorded_at>
+
+<sys_updated_by>admin</sys_updated_by>
+
+<sys_updated_on>2020-10-23 18:23:47</sys_updated_on>
+
+<table>u_instance_of_kb_articles_events</table>
+
+<target_name>u_instance_of_kb_articles_events</target_name>
+
+<type>Access Control</type>
+
+<update_domain>global</update_domain>
+
+<update_guid>6e2f4759660c60102b40f33312c6600b</update_guid>
+
+<update_guid_history>6e2f4759660c60102b40f33312c6600b:30395161</update_guid_history>
+
+<update_set display_value=""/>
+
+<view/>
+
+</sys_update_xml>
+
+
+-<sys_update_xml action="INSERT_OR_UPDATE">
+
+<action>INSERT_OR_UPDATE</action>
+
+<application display_value="Global">global</application>
+
+<category>customer</category>
+
+<comments/>
+
+<name>sp_widget_808fcb59e50c60107f4423e301331c86</name>
+
+<payload><?xml version="1.0" encoding="UTF-8"?><record_update table="sp_widget"><sp_widget action="INSERT_OR_UPDATE"><category>custom</category><client_script><![CDATA[api.controller=function() {/* widget controller */var c = this; };]]></client_script><controller_as>c</controller_as><css/><data_table>u_instance_of_kb_articles_events</data_table><demo_data/><description/><docs/><field_list>u_kb_articles</field_list><has_preview>false</has_preview><id>kb-articles-for-green-events</id><internal>false</internal><link><![CDATA[function link(scope, element, attrs, controller) { }]]></link><name>KB Articles for Green Events</name><option_schema/><public>false</public><roles/><script><![CDATA[(function() {/* populate the 'data' object *//* e.g., data.table = $sp.getValue('table'); */ data.articles = options.u_kb_articles.split(',');data.content = [];for(var i = 0; i < data.articles.length; i++){var article = new GlideRecordSecure('kb_knowledge');article.get(data.articles[i]);data.content.push({'title':article.short_description.toString(),'id':article.getUniqueValue()});} })();]]></script><servicenow>false</servicenow><sys_class_name>sp_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 15:40:21</sys_created_on><sys_id>808fcb59e50c60107f4423e301331c86</sys_id><sys_mod_count>1</sys_mod_count><sys_name>KB Articles for Green Events</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sp_widget_808fcb59e50c60107f4423e301331c86</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 15:41:17</sys_updated_on><template><![CDATA[<div class="panel panel-default"><!-- Default panel contents --><div class="panel-heading">Sustainability Advice</div><!-- List Group --><ul class="list-group"><li class="list-group-item"ng-repeat="article in c.data.content"><a href="?id=kb_article&sys_id={{article.id}}">{{article.title}}</a></li></ul> </div> ]]></template></sp_widget></record_update></payload>
+
+<payload_hash>217594360</payload_hash>
+
+<remote_update_set display_value="Service Portal Advance class - global">3a057f15e54c60107f4423e301331cec</remote_update_set>
+
+<replace_on_upgrade>false</replace_on_upgrade>
+
+<sys_created_by>admin</sys_created_by>
+
+<sys_created_on>2020-10-23 18:23:47</sys_created_on>
+
+<sys_id>3e057f15e54c60107f4423e301331cec</sys_id>
+
+<sys_mod_count>0</sys_mod_count>
+
+<sys_recorded_at>175561f0da60000001</sys_recorded_at>
+
+<sys_updated_by>admin</sys_updated_by>
+
+<sys_updated_on>2020-10-23 18:23:47</sys_updated_on>
+
+<table/>
+
+<target_name>KB Articles for Green Events</target_name>
+
+<type>Widget</type>
+
+<update_domain>global</update_domain>
+
+<update_guid>16df07590b0c6010b2c4377ced1b8d40</update_guid>
+
+<update_guid_history>16df07590b0c6010b2c4377ced1b8d40:217594360,fcafc759720c60101d8d0c4786a6044c:198527438</update_guid_history>
+
+<update_set display_value=""/>
+
+<view/>
+
+</sys_update_xml>
+
+
+-<sys_update_xml action="INSERT_OR_UPDATE">
+
+<action>INSERT_OR_UPDATE</action>
+
+<application display_value="Global">global</application>
+
+<category>customer</category>
+
+<comments/>
+
+<name>sys_documentation_u_instance_of_kb_articles_events_u_kb_articles_en</name>
+
+
+-<payload>
+
+-<![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="u_kb_articles" label="KB Articles" language="en" table="u_instance_of_kb_articles_events"><sys_documentation action="INSERT_OR_UPDATE"><element>u_kb_articles</element><help/><hint/><label>KB Articles</label><language>en</language><name>u_instance_of_kb_articles_events</name><plural>KB Articles</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 15:38:54</sys_created_on><sys_id>e74fc759e50c60107f4423e301331cc8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>KB Articles</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_documentation_u_instance_of_kb_articles_events_u_kb_articles_en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 15:38:54</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]>
+</payload>
+
+<payload_hash>833002306</payload_hash>
+
+<remote_update_set display_value="Service Portal Advance class - global">3a057f15e54c60107f4423e301331cec</remote_update_set>
+
+<replace_on_upgrade>false</replace_on_upgrade>
+
+<sys_created_by>admin</sys_created_by>
+
+<sys_created_on>2020-10-23 18:23:47</sys_created_on>
+
+<sys_id>3e057f15e54c60107f4423e301331ced</sys_id>
+
+<sys_mod_count>0</sys_mod_count>
+
+<sys_recorded_at>175561ce3270000001</sys_recorded_at>
+
+<sys_updated_by>admin</sys_updated_by>
+
+<sys_updated_on>2020-10-23 18:23:47</sys_updated_on>
+
+<table>u_instance_of_kb_articles_events</table>
+
+<target_name>Instance of KB Articles - Events.KB Articles</target_name>
+
+<type>Field Label</type>
+
+<update_domain>global</update_domain>
+
+<update_guid>f34fc759c90c6010ff8aa27f344e9fd4</update_guid>
+
+<update_guid_history>f34fc759c90c6010ff8aa27f344e9fd4:833002306</update_guid_history>
+
+<update_set display_value=""/>
+
+<view/>
+
+</sys_update_xml>
+
+
+-<sys_update_xml action="INSERT_OR_UPDATE">
+
+<action>INSERT_OR_UPDATE</action>
+
+<application display_value="Global">global</application>
+
+<category>customer</category>
+
+<comments/>
+
+<name>sys_ui_section_d95f0b59e50c60107f4423e301331c99</name>
+
+
+-<payload>
+
+-<![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Presentation" section_id="d95f0b59e50c60107f4423e301331c99" sys_domain="global" table="u_instance_of_kb_articles_events" version="3" view="sp_instance_config"><sys_ui_element action="INSERT_OR_UPDATE"><element>title</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 15:39:01</sys_created_on><sys_id>9d5f0b59e50c60107f4423e301331c9a</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Presentation" display_value="Presentation" name="u_instance_of_kb_articles_events" sys_domain="global" view="0ce54027b33232007a6de81816a8dca1">d95f0b59e50c60107f4423e301331c99</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 15:39:01</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>short_description</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 15:39:01</sys_created_on><sys_id>155f0b59e50c60107f4423e301331c9b</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Presentation" display_value="Presentation" name="u_instance_of_kb_articles_events" sys_domain="global" view="0ce54027b33232007a6de81816a8dca1">d95f0b59e50c60107f4423e301331c99</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 15:39:01</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>class_name</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 15:39:01</sys_created_on><sys_id>995f0b59e50c60107f4423e301331c9b</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Presentation" display_value="Presentation" name="u_instance_of_kb_articles_events" sys_domain="global" view="0ce54027b33232007a6de81816a8dca1">d95f0b59e50c60107f4423e301331c99</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 15:39:01</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>color</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 15:39:01</sys_created_on><sys_id>115f0b59e50c60107f4423e301331c9c</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Presentation" display_value="Presentation" name="u_instance_of_kb_articles_events" sys_domain="global" view="0ce54027b33232007a6de81816a8dca1">d95f0b59e50c60107f4423e301331c99</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 15:39:01</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>size</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 15:39:01</sys_created_on><sys_id>955f0b59e50c60107f4423e301331c9c</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Presentation" display_value="Presentation" name="u_instance_of_kb_articles_events" sys_domain="global" view="0ce54027b33232007a6de81816a8dca1">d95f0b59e50c60107f4423e301331c99</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 15:39:01</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>glyph</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 15:39:01</sys_created_on><sys_id>1d5f0b59e50c60107f4423e301331c9c</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Presentation" display_value="Presentation" name="u_instance_of_kb_articles_events" sys_domain="global" view="0ce54027b33232007a6de81816a8dca1">d95f0b59e50c60107f4423e301331c99</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 15:39:01</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>css</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 15:39:01</sys_created_on><sys_id>915f0b59e50c60107f4423e301331c9d</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Presentation" display_value="Presentation" name="u_instance_of_kb_articles_events" sys_domain="global" view="0ce54027b33232007a6de81816a8dca1">d95f0b59e50c60107f4423e301331c99</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 15:39:01</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>widget_parameters</element><position>7</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 15:39:01</sys_created_on><sys_id>195f0b59e50c60107f4423e301331c9d</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Presentation" display_value="Presentation" name="u_instance_of_kb_articles_events" sys_domain="global" view="0ce54027b33232007a6de81816a8dca1">d95f0b59e50c60107f4423e301331c99</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 15:39:01</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Presentation</caption><header>false</header><name>u_instance_of_kb_articles_events</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 15:39:01</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d95f0b59e50c60107f4423e301331c99</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_instance_of_kb_articles_events</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ui_section_d95f0b59e50c60107f4423e301331c99</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 15:39:01</sys_updated_on><sys_user/><title>false</title><view display_value="SP Instance Config" name="sp_instance_config">0ce54027b33232007a6de81816a8dca1</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]>
+</payload>
+
+<payload_hash>870204110</payload_hash>
+
+<remote_update_set display_value="Service Portal Advance class - global">3a057f15e54c60107f4423e301331cec</remote_update_set>
+
+<replace_on_upgrade>false</replace_on_upgrade>
+
+<sys_created_by>admin</sys_created_by>
+
+<sys_created_on>2020-10-23 18:23:47</sys_created_on>
+
+<sys_id>3e057f15e54c60107f4423e301331cf0</sys_id>
+
+<sys_mod_count>0</sys_mod_count>
+
+<sys_recorded_at>175561cfd590000001</sys_recorded_at>
+
+<sys_updated_by>admin</sys_updated_by>
+
+<sys_updated_on>2020-10-23 18:23:47</sys_updated_on>
+
+<table>u_instance_of_kb_articles_events</table>
+
+<target_name>Instance of KB Articles - Events</target_name>
+
+<type>Form Layout</type>
+
+<update_domain>global</update_domain>
+
+<update_guid>155f0b594c0c6010c98c98f87be9e39f</update_guid>
+
+<update_guid_history>155f0b594c0c6010c98c98f87be9e39f:870204110</update_guid_history>
+
+<update_set display_value=""/>
+
+<view>sp_instance_config</view>
+
+</sys_update_xml>
+
+
+-<sys_update_xml action="INSERT_OR_UPDATE">
+
+<action>INSERT_OR_UPDATE</action>
+
+<application display_value="Global">global</application>
+
+<category>customer</category>
+
+<comments/>
+
+<name>sys_security_acl_role_6e2f4759e50c60107f4423e301331c18</name>
+
+
+-<payload>
+
+-<![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 15:38:17</sys_created_on><sys_id>6e2f4759e50c60107f4423e301331c18</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_instance_of_kb_articles_events.u_instance_of_kb_articles_events_user</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_security_acl display_value="u_instance_of_kb_articles_events">2e2f4759e50c60107f4423e301331c15</sys_security_acl><sys_update_name>sys_security_acl_role_6e2f4759e50c60107f4423e301331c18</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 15:38:17</sys_updated_on><sys_user_role display_value="u_instance_of_kb_articles_events_user" name="u_instance_of_kb_articles_events_user">de2f4359e50c60107f4423e301331c52</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]>
+</payload>
+
+<payload_hash>1417515516</payload_hash>
+
+<remote_update_set display_value="Service Portal Advance class - global">3a057f15e54c60107f4423e301331cec</remote_update_set>
+
+<replace_on_upgrade>false</replace_on_upgrade>
+
+<sys_created_by>admin</sys_created_by>
+
+<sys_created_on>2020-10-23 18:23:47</sys_created_on>
+
+<sys_id>72057f15e54c60107f4423e301331cef</sys_id>
+
+<sys_mod_count>0</sys_mod_count>
+
+<sys_recorded_at>175561c50280000001</sys_recorded_at>
+
+<sys_updated_by>admin</sys_updated_by>
+
+<sys_updated_on>2020-10-23 18:23:47</sys_updated_on>
+
+<table>u_instance_of_kb_articles_events</table>
+
+<target_name>u_instance_of_kb_articles_events.u_instance_of_kb_articles_events_user</target_name>
+
+<type>Access Roles</type>
+
+<update_domain>global</update_domain>
+
+<update_guid>ee2f47596c0c6010c1a91b87b931e01a</update_guid>
+
+<update_guid_history>ee2f47596c0c6010c1a91b87b931e01a:1417515516</update_guid_history>
+
+<update_set display_value=""/>
+
+<view/>
+
+</sys_update_xml>
+
+
+-<sys_update_xml action="INSERT_OR_UPDATE">
+
+<action>INSERT_OR_UPDATE</action>
+
+<application display_value="Global">global</application>
+
+<category>customer</category>
+
+<comments/>
+
+<name>sys_security_acl_ae2f0759e50c60107f4423e301331cf4</name>
+
+
+-<payload>
+
+-<![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on u_instance_of_kb_articles_events</description><name>u_instance_of_kb_articles_events</name><operation display_value="create">create</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 15:38:17</sys_created_on><sys_id>ae2f0759e50c60107f4423e301331cf4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_instance_of_kb_articles_events</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_security_acl_ae2f0759e50c60107f4423e301331cf4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 15:38:17</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]>
+</payload>
+
+<payload_hash>400790861</payload_hash>
+
+<remote_update_set display_value="Service Portal Advance class - global">3a057f15e54c60107f4423e301331cec</remote_update_set>
+
+<replace_on_upgrade>false</replace_on_upgrade>
+
+<sys_created_by>admin</sys_created_by>
+
+<sys_created_on>2020-10-23 18:23:47</sys_created_on>
+
+<sys_id>76057f15e54c60107f4423e301331cee</sys_id>
+
+<sys_mod_count>0</sys_mod_count>
+
+<sys_recorded_at>175561c4f4f0000001</sys_recorded_at>
+
+<sys_updated_by>admin</sys_updated_by>
+
+<sys_updated_on>2020-10-23 18:23:47</sys_updated_on>
+
+<table>u_instance_of_kb_articles_events</table>
+
+<target_name>u_instance_of_kb_articles_events</target_name>
+
+<type>Access Control</type>
+
+<update_domain>global</update_domain>
+
+<update_guid>2a2f07596c0c6010bfa2ac0bd658d4f8</update_guid>
+
+<update_guid_history>2a2f07596c0c6010bfa2ac0bd658d4f8:400790861</update_guid_history>
+
+<update_set display_value=""/>
+
+<view/>
+
+</sys_update_xml>
+
+
+-<sys_update_xml action="INSERT_OR_UPDATE">
+
+<action>INSERT_OR_UPDATE</action>
+
+<application display_value="Global">global</application>
+
+<category>customer</category>
+
+<comments/>
+
+<name>sys_dictionary_u_instance_of_kb_articles_events_u_kb_articles</name>
+
+<payload><?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="u_kb_articles" table="u_instance_of_kb_articles_events"><active>true</active><array>false</array><array_denormalized>false</array_denormalized><attributes/><audit>false</audit><calculation><![CDATA[(function calculatedFieldValue(current) {// Add your code herereturn ''; // return the calculated value })(current);]]></calculation><choice/><choice_field/><choice_table/><column_label>KB Articles</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>u_kb_articles</element><element_reference>false</element_reference><foreign_database/><function_definition/><function_field>false</function_field><internal_type display_value="">glide_list</internal_type><mandatory>false</mandatory><max_length>4000</max_length><name>u_instance_of_kb_articles_events</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference display_value="" name="kb_knowledge">kb_knowledge</reference><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual>workflow_state=published^kb_category=250618af713a03007f440126d3d01220^EQ</reference_qual><reference_qual_condition table="kb_knowledge">workflow_state=published^kb_category=250618af713a03007f440126d3d01220^EQ<item display_value="Published" endquery="false" field="workflow_state" goto="false" newquery="false" operator="=" or="false" value="published"/><item display_table="kb_category" display_value="Events" endquery="false" field="kb_category" goto="false" newquery="false" operator="=" or="false" value="250618af713a03007f440126d3d01220"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></reference_qual_condition><reference_type/><sizeclass/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 15:38:54</sys_created_on><sys_id>2f2f8759e50c60107f4423e301331c79</sys_id><sys_mod_count>0</sys_mod_count><sys_name>KB Articles</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_dictionary_u_instance_of_kb_articles_events_u_kb_articles</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 15:38:54</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update></payload>
+
+<payload_hash>1982924121</payload_hash>
+
+<remote_update_set display_value="Service Portal Advance class - global">3a057f15e54c60107f4423e301331cec</remote_update_set>
+
+<replace_on_upgrade>false</replace_on_upgrade>
+
+<sys_created_by>admin</sys_created_by>
+
+<sys_created_on>2020-10-23 18:23:47</sys_created_on>
+
+<sys_id>7a057f15e54c60107f4423e301331ced</sys_id>
+
+<sys_mod_count>0</sys_mod_count>
+
+<sys_recorded_at>175561ce3150000001</sys_recorded_at>
+
+<sys_updated_by>admin</sys_updated_by>
+
+<sys_updated_on>2020-10-23 18:23:47</sys_updated_on>
+
+<table>u_instance_of_kb_articles_events</table>
+
+<target_name>Instance of KB Articles - Events.KB Articles</target_name>
+
+<type>Dictionary</type>
+
+<update_domain>global</update_domain>
+
+<update_guid>bf4fc7597d0c6010adfc2aed0b5761d2</update_guid>
+
+<update_guid_history>bf4fc7597d0c6010adfc2aed0b5761d2:1982924121</update_guid_history>
+
+<update_set display_value=""/>
+
+<view/>
+
+</sys_update_xml>
+
+
+-<sys_update_xml action="INSERT_OR_UPDATE">
+
+<action>INSERT_OR_UPDATE</action>
+
+<application display_value="Global">global</application>
+
+<category>customer</category>
+
+<comments/>
+
+<name>sys_ui_section_d15f0b59e50c60107f4423e301331ca5</name>
+
+
+-<payload>
+
+-<![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Behavior" section_id="d15f0b59e50c60107f4423e301331ca5" sys_domain="global" table="u_instance_of_kb_articles_events" version="3" view="sp_instance_config"><sys_ui_element action="INSERT_OR_UPDATE"><element>roles</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 15:39:02</sys_created_on><sys_id>955f0b59e50c60107f4423e301331ca6</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Behavior" display_value="Behavior" name="u_instance_of_kb_articles_events" sys_domain="global" view="0ce54027b33232007a6de81816a8dca1">d15f0b59e50c60107f4423e301331ca5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 15:39:02</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>order</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 15:39:02</sys_created_on><sys_id>1d5f0b59e50c60107f4423e301331ca6</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Behavior" display_value="Behavior" name="u_instance_of_kb_articles_events" sys_domain="global" view="0ce54027b33232007a6de81816a8dca1">d15f0b59e50c60107f4423e301331ca5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 15:39:02</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Behavior</caption><header>false</header><name>u_instance_of_kb_articles_events</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 15:39:01</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d15f0b59e50c60107f4423e301331ca5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_instance_of_kb_articles_events</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ui_section_d15f0b59e50c60107f4423e301331ca5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 15:39:01</sys_updated_on><sys_user/><title>false</title><view display_value="SP Instance Config" name="sp_instance_config">0ce54027b33232007a6de81816a8dca1</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]>
+</payload>
+
+<payload_hash>539442015</payload_hash>
+
+<remote_update_set display_value="Service Portal Advance class - global">3a057f15e54c60107f4423e301331cec</remote_update_set>
+
+<replace_on_upgrade>false</replace_on_upgrade>
+
+<sys_created_by>admin</sys_created_by>
+
+<sys_created_on>2020-10-23 18:23:47</sys_created_on>
+
+<sys_id>7a057f15e54c60107f4423e301331cf0</sys_id>
+
+<sys_mod_count>0</sys_mod_count>
+
+<sys_recorded_at>175561cfe170000001</sys_recorded_at>
+
+<sys_updated_by>admin</sys_updated_by>
+
+<sys_updated_on>2020-10-23 18:23:47</sys_updated_on>
+
+<table>u_instance_of_kb_articles_events</table>
+
+<target_name>Instance of KB Articles - Events</target_name>
+
+<type>Form Layout</type>
+
+<update_domain>global</update_domain>
+
+<update_guid>915f0b59d20c6010154ef4092cfa01a8</update_guid>
+
+<update_guid_history>915f0b59d20c6010154ef4092cfa01a8:539442015</update_guid_history>
+
+<update_set display_value=""/>
+
+<view>sp_instance_config</view>
+
+</sys_update_xml>
+
+
+-<sys_update_xml action="INSERT_OR_UPDATE">
+
+<action>INSERT_OR_UPDATE</action>
+
+<application display_value="Global">global</application>
+
+<category>customer</category>
+
+<comments/>
+
+<name>sys_ui_form_sections_dd5f0b59e50c60107f4423e301331c7d</name>
+
+
+-<payload>
+
+-<![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_form_sections form_id="dd5f0b59e50c60107f4423e301331c7d" sys_domain="global" table="u_instance_of_kb_articles_events" version="3"><sys_ui_form_section action="INSERT_OR_UPDATE"><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 15:39:01</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>595f0b59e50c60107f4423e301331c8b</sys_id><sys_mod_count>0</sys_mod_count><sys_overrides/><sys_ui_form display_value="u_instance_of_kb_articles_events" name="u_instance_of_kb_articles_events" sys_domain="global" view="Default view">dd5f0b59e50c60107f4423e301331c7d</sys_ui_form><sys_ui_section caption="NULL" display_value="" name="u_instance_of_kb_articles_events" sys_domain="global" view="Default view">155f0b59e50c60107f4423e301331c86</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 15:39:01</sys_updated_on></sys_ui_form_section><sys_ui_form_section action="INSERT_OR_UPDATE"><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 15:39:01</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>555f0b59e50c60107f4423e301331c95</sys_id><sys_mod_count>0</sys_mod_count><sys_overrides/><sys_ui_form display_value="u_instance_of_kb_articles_events" name="u_instance_of_kb_articles_events" sys_domain="global" view="Default view">dd5f0b59e50c60107f4423e301331c7d</sys_ui_form><sys_ui_section caption="Color, Placement, Size" display_value="Color, Placement, Size" name="u_instance_of_kb_articles_events" sys_domain="global" view="Default view">515f0b59e50c60107f4423e301331c8c</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 15:39:01</sys_updated_on></sys_ui_form_section><sys_ui_form_section action="INSERT_OR_UPDATE"><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 15:39:01</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>955f0b59e50c60107f4423e301331c85</sys_id><sys_mod_count>0</sys_mod_count><sys_overrides/><sys_ui_form display_value="u_instance_of_kb_articles_events" name="u_instance_of_kb_articles_events" sys_domain="global" view="Default view">dd5f0b59e50c60107f4423e301331c7d</sys_ui_form><sys_ui_section caption="Widget" display_value="Widget" name="u_instance_of_kb_articles_events" sys_domain="global" view="Default view">dd5f0b59e50c60107f4423e301331c80</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 15:39:01</sys_updated_on></sys_ui_form_section><sys_ui_form action="INSERT_OR_UPDATE"><name>u_instance_of_kb_articles_events</name><roles/><sys_class_name>sys_ui_form</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 15:39:01</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>dd5f0b59e50c60107f4423e301331c7d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_instance_of_kb_articles_events</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ui_form_sections_dd5f0b59e50c60107f4423e301331c7d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 15:39:01</sys_updated_on><sys_user/><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_form></sys_ui_form_sections></record_update>]]>
+</payload>
+
+<payload_hash>1538480292</payload_hash>
+
+<remote_update_set display_value="Service Portal Advance class - global">3a057f15e54c60107f4423e301331cec</remote_update_set>
+
+<replace_on_upgrade>false</replace_on_upgrade>
+
+<sys_created_by>admin</sys_created_by>
+
+<sys_created_on>2020-10-23 18:23:47</sys_created_on>
+
+<sys_id>7e057f15e54c60107f4423e301331cef</sys_id>
+
+<sys_mod_count>0</sys_mod_count>
+
+<sys_recorded_at>175561cfce80000001</sys_recorded_at>
+
+<sys_updated_by>admin</sys_updated_by>
+
+<sys_updated_on>2020-10-23 18:23:47</sys_updated_on>
+
+<table>u_instance_of_kb_articles_events</table>
+
+<target_name>Instance of KB Articles - Events</target_name>
+
+<type>Form Sections</type>
+
+<update_domain>global</update_domain>
+
+<update_guid>1d5f0b59e30c60105698c40fa7e69296</update_guid>
+
+<update_guid_history>1d5f0b59e30c60105698c40fa7e69296:1538480292,115f0b59750c601035a4d43491141980:53504890</update_guid_history>
+
+<update_set display_value=""/>
+
+<view/>
+
+</sys_update_xml>
+
+
+-<sys_update_xml action="INSERT_OR_UPDATE">
+
+<action>INSERT_OR_UPDATE</action>
+
+<application display_value="Global">global</application>
+
+<category>customer</category>
+
+<comments/>
+
+<name>sys_security_acl_2e2f4759e50c60107f4423e301331c15</name>
+
+
+-<payload>
+
+-<![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on u_instance_of_kb_articles_events</description><name>u_instance_of_kb_articles_events</name><operation display_value="delete">delete</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 15:38:17</sys_created_on><sys_id>2e2f4759e50c60107f4423e301331c15</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_instance_of_kb_articles_events</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_security_acl_2e2f4759e50c60107f4423e301331c15</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 15:38:17</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]>
+</payload>
+
+<payload_hash>675574959</payload_hash>
+
+<remote_update_set display_value="Service Portal Advance class - global">3a057f15e54c60107f4423e301331cec</remote_update_set>
+
+<replace_on_upgrade>false</replace_on_upgrade>
+
+<sys_created_by>admin</sys_created_by>
+
+<sys_created_on>2020-10-23 18:23:47</sys_created_on>
+
+<sys_id>b2057f15e54c60107f4423e301331cee</sys_id>
+
+<sys_mod_count>0</sys_mod_count>
+
+<sys_recorded_at>175561c50110000001</sys_recorded_at>
+
+<sys_updated_by>admin</sys_updated_by>
+
+<sys_updated_on>2020-10-23 18:23:47</sys_updated_on>
+
+<table>u_instance_of_kb_articles_events</table>
+
+<target_name>u_instance_of_kb_articles_events</target_name>
+
+<type>Access Control</type>
+
+<update_domain>global</update_domain>
+
+<update_guid>ee2f4759300c601030539914709d6c17</update_guid>
+
+<update_guid_history>ee2f4759300c601030539914709d6c17:675574959</update_guid_history>
+
+<update_set display_value=""/>
+
+<view/>
+
+</sys_update_xml>
+
+
+-<sys_update_xml action="INSERT_OR_UPDATE">
+
+<action>INSERT_OR_UPDATE</action>
+
+<application display_value="Global">global</application>
+
+<category>customer</category>
+
+<comments/>
+
+<name>sys_user_role_de2f4359e50c60107f4423e301331c52</name>
+
+
+-<payload>
+
+-<![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>u_instance_of_kb_articles_events_user</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix/><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 15:38:16</sys_created_on><sys_id>de2f4359e50c60107f4423e301331c52</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_instance_of_kb_articles_events_user</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_user_role_de2f4359e50c60107f4423e301331c52</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 15:38:16</sys_updated_on></sys_user_role></record_update>]]>
+</payload>
+
+<payload_hash>-206120590</payload_hash>
+
+<remote_update_set display_value="Service Portal Advance class - global">3a057f15e54c60107f4423e301331cec</remote_update_set>
+
+<replace_on_upgrade>false</replace_on_upgrade>
+
+<sys_created_by>admin</sys_created_by>
+
+<sys_created_on>2020-10-23 18:23:47</sys_created_on>
+
+<sys_id>b2057f15e54c60107f4423e301331cf1</sys_id>
+
+<sys_mod_count>0</sys_mod_count>
+
+<sys_recorded_at>175561c4dd60000001</sys_recorded_at>
+
+<sys_updated_by>admin</sys_updated_by>
+
+<sys_updated_on>2020-10-23 18:23:47</sys_updated_on>
+
+<table/>
+
+<target_name>u_instance_of_kb_articles_events_user</target_name>
+
+<type>Role</type>
+
+<update_domain>global</update_domain>
+
+<update_guid>9a2f43596a0c6010cf7fcf1f7e420557</update_guid>
+
+<update_guid_history>9a2f43596a0c6010cf7fcf1f7e420557:-206120590</update_guid_history>
+
+<update_set display_value=""/>
+
+<view/>
+
+</sys_update_xml>
+
+
+-<sys_update_xml action="INSERT_OR_UPDATE">
+
+<action>INSERT_OR_UPDATE</action>
+
+<application display_value="Global">global</application>
+
+<category>customer</category>
+
+<comments/>
+
+<name>sys_dictionary_u_instance_of_kb_articles_events_null</name>
+
+<payload><?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="" extends="sp_instance" table="u_instance_of_kb_articles_events"><active>true</active><array>false</array><array_denormalized>false</array_denormalized><attributes>update_synch=true</attributes><audit>false</audit><calculation><![CDATA[(function calculatedFieldValue(current) {// Add your code herereturn ''; // return the calculated value })(current);]]></calculation><choice/><choice_field/><choice_table/><column_label/><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element/><element_reference>false</element_reference><foreign_database/><function_definition/><function_field>false</function_field><internal_type display_value="Collection">collection</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>u_instance_of_kb_articles_events</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><sizeclass/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 15:38:17</sys_created_on><sys_id>ea2f4759e50c60107f4423e301331c1b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_instance_of_kb_articles_events</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_dictionary_u_instance_of_kb_articles_events_null</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 15:38:17</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update></payload>
+
+<payload_hash>-504612215</payload_hash>
+
+<remote_update_set display_value="Service Portal Advance class - global">3a057f15e54c60107f4423e301331cec</remote_update_set>
+
+<replace_on_upgrade>false</replace_on_upgrade>
+
+<sys_created_by>admin</sys_created_by>
+
+<sys_created_on>2020-10-23 18:23:47</sys_created_on>
+
+<sys_id>b6057f15e54c60107f4423e301331ced</sys_id>
+
+<sys_mod_count>0</sys_mod_count>
+
+<sys_recorded_at>175561c51930000001</sys_recorded_at>
+
+<sys_updated_by>admin</sys_updated_by>
+
+<sys_updated_on>2020-10-23 18:23:47</sys_updated_on>
+
+<table>u_instance_of_kb_articles_events</table>
+
+<target_name>Instance of KB Articles - Events</target_name>
+
+<type>Dictionary</type>
+
+<update_domain>global</update_domain>
+
+<update_guid>6a2f4759ed0c60104ce8ba1709465031</update_guid>
+
+<update_guid_history>6a2f4759ed0c60104ce8ba1709465031:-504612215</update_guid_history>
+
+<update_set display_value=""/>
+
+<view/>
+
+</sys_update_xml>
+
+
+-<sys_update_xml action="INSERT_OR_UPDATE">
+
+<action>INSERT_OR_UPDATE</action>
+
+<application display_value="Global">global</application>
+
+<category>customer</category>
+
+<comments/>
+
+<name>sys_ui_section_555f0b59e50c60107f4423e301331ca0</name>
+
+
+-<payload>
+
+-<![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Data" section_id="555f0b59e50c60107f4423e301331ca0" sys_domain="global" table="u_instance_of_kb_articles_events" version="3" view="sp_instance_config"><sys_ui_element action="INSERT_OR_UPDATE"><element>id</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 15:39:27</sys_created_on><sys_id>ab6f4b59e50c60107f4423e301331cc2</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Data" display_value="Data" name="u_instance_of_kb_articles_events" sys_domain="global" view="0ce54027b33232007a6de81816a8dca1">555f0b59e50c60107f4423e301331ca0</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 15:39:27</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>sys_name</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 15:39:27</sys_created_on><sys_id>236f4b59e50c60107f4423e301331cc3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Data" display_value="Data" name="u_instance_of_kb_articles_events" sys_domain="global" view="0ce54027b33232007a6de81816a8dca1">555f0b59e50c60107f4423e301331ca0</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 15:39:27</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>sys_scope</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 15:39:27</sys_created_on><sys_id>a76f4b59e50c60107f4423e301331cc3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Data" display_value="Data" name="u_instance_of_kb_articles_events" sys_domain="global" view="0ce54027b33232007a6de81816a8dca1">555f0b59e50c60107f4423e301331ca0</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 15:39:27</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>widget_parameters</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 15:39:27</sys_created_on><sys_id>2f6f4b59e50c60107f4423e301331cc3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Data" display_value="Data" name="u_instance_of_kb_articles_events" sys_domain="global" view="0ce54027b33232007a6de81816a8dca1">555f0b59e50c60107f4423e301331ca0</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 15:39:27</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_kb_articles</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 15:39:27</sys_created_on><sys_id>a36f4b59e50c60107f4423e301331cc4</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Data" display_value="Data" name="u_instance_of_kb_articles_events" sys_domain="global" view="0ce54027b33232007a6de81816a8dca1">555f0b59e50c60107f4423e301331ca0</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 15:39:27</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Data</caption><header>false</header><name>u_instance_of_kb_articles_events</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 15:39:01</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>555f0b59e50c60107f4423e301331ca0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_instance_of_kb_articles_events</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ui_section_555f0b59e50c60107f4423e301331ca0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 15:39:01</sys_updated_on><sys_user/><title>false</title><view display_value="SP Instance Config" name="sp_instance_config">0ce54027b33232007a6de81816a8dca1</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]>
+</payload>
+
+<payload_hash>556005334</payload_hash>
+
+<remote_update_set display_value="Service Portal Advance class - global">3a057f15e54c60107f4423e301331cec</remote_update_set>
+
+<replace_on_upgrade>false</replace_on_upgrade>
+
+<sys_created_by>admin</sys_created_by>
+
+<sys_created_on>2020-10-23 18:23:47</sys_created_on>
+
+<sys_id>b6057f15e54c60107f4423e301331cf0</sys_id>
+
+<sys_mod_count>0</sys_mod_count>
+
+<sys_recorded_at>175561d602b0000001</sys_recorded_at>
+
+<sys_updated_by>admin</sys_updated_by>
+
+<sys_updated_on>2020-10-23 18:23:47</sys_updated_on>
+
+<table>u_instance_of_kb_articles_events</table>
+
+<target_name>Instance of KB Articles - Events</target_name>
+
+<type>Form Layout</type>
+
+<update_domain>global</update_domain>
+
+<update_guid>2f6f4b59c20c601044f1a4bc144a52c5</update_guid>
+
+<update_guid_history>2f6f4b59c20c601044f1a4bc144a52c5:556005334,915f0b59e60c6010615763c1dc2c5ca4:-1361805252</update_guid_history>
+
+<update_set display_value=""/>
+
+<view>sp_instance_config</view>
+
+</sys_update_xml>
+
+
+-<sys_update_xml action="INSERT_OR_UPDATE">
+
+<action>INSERT_OR_UPDATE</action>
+
+<application display_value="Global">global</application>
+
+<category>customer</category>
+
+<comments/>
+
+<name>sys_ui_form_sections_995f0b59e50c60107f4423e301331c97</name>
+
+
+-<payload>
+
+-<![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_form_sections form_id="995f0b59e50c60107f4423e301331c97" sys_domain="global" table="u_instance_of_kb_articles_events" version="3"><sys_ui_form_section action="INSERT_OR_UPDATE"><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 15:39:01</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d95f0b59e50c60107f4423e301331ca4</sys_id><sys_mod_count>0</sys_mod_count><sys_overrides/><sys_ui_form display_value="u_instance_of_kb_articles_events" name="u_instance_of_kb_articles_events" sys_domain="global" view="0ce54027b33232007a6de81816a8dca1">995f0b59e50c60107f4423e301331c97</sys_ui_form><sys_ui_section caption="Data" display_value="Data" name="u_instance_of_kb_articles_events" sys_domain="global" view="0ce54027b33232007a6de81816a8dca1">555f0b59e50c60107f4423e301331ca0</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 15:39:01</sys_updated_on></sys_ui_form_section><sys_ui_form_section action="INSERT_OR_UPDATE"><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 15:39:01</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>5d5f0b59e50c60107f4423e301331c9f</sys_id><sys_mod_count>0</sys_mod_count><sys_overrides/><sys_ui_form display_value="u_instance_of_kb_articles_events" name="u_instance_of_kb_articles_events" sys_domain="global" view="0ce54027b33232007a6de81816a8dca1">995f0b59e50c60107f4423e301331c97</sys_ui_form><sys_ui_section caption="Presentation" display_value="Presentation" name="u_instance_of_kb_articles_events" sys_domain="global" view="0ce54027b33232007a6de81816a8dca1">d95f0b59e50c60107f4423e301331c99</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 15:39:01</sys_updated_on></sys_ui_form_section><sys_ui_form_section action="INSERT_OR_UPDATE"><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 15:39:02</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d95f0b59e50c60107f4423e301331ca8</sys_id><sys_mod_count>0</sys_mod_count><sys_overrides/><sys_ui_form display_value="u_instance_of_kb_articles_events" name="u_instance_of_kb_articles_events" sys_domain="global" view="0ce54027b33232007a6de81816a8dca1">995f0b59e50c60107f4423e301331c97</sys_ui_form><sys_ui_section caption="Behavior" display_value="Behavior" name="u_instance_of_kb_articles_events" sys_domain="global" view="0ce54027b33232007a6de81816a8dca1">d15f0b59e50c60107f4423e301331ca5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 15:39:02</sys_updated_on></sys_ui_form_section><sys_ui_form action="INSERT_OR_UPDATE"><name>u_instance_of_kb_articles_events</name><roles/><sys_class_name>sys_ui_form</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 15:39:01</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>995f0b59e50c60107f4423e301331c97</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_instance_of_kb_articles_events</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ui_form_sections_995f0b59e50c60107f4423e301331c97</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 15:39:01</sys_updated_on><sys_user/><view display_value="SP Instance Config" name="sp_instance_config">0ce54027b33232007a6de81816a8dca1</view><view_name/></sys_ui_form></sys_ui_form_sections></record_update>]]>
+</payload>
+
+<payload_hash>764656320</payload_hash>
+
+<remote_update_set display_value="Service Portal Advance class - global">3a057f15e54c60107f4423e301331cec</remote_update_set>
+
+<replace_on_upgrade>false</replace_on_upgrade>
+
+<sys_created_by>admin</sys_created_by>
+
+<sys_created_on>2020-10-23 18:23:47</sys_created_on>
+
+<sys_id>ba057f15e54c60107f4423e301331cef</sys_id>
+
+<sys_mod_count>0</sys_mod_count>
+
+<sys_recorded_at>175561cfe330000001</sys_recorded_at>
+
+<sys_updated_by>admin</sys_updated_by>
+
+<sys_updated_on>2020-10-23 18:23:47</sys_updated_on>
+
+<table>u_instance_of_kb_articles_events</table>
+
+<target_name>Instance of KB Articles - Events</target_name>
+
+<type>Form Sections</type>
+
+<update_domain>global</update_domain>
+
+<update_guid>915f0b596b0c6010eb79c2d65d1450aa</update_guid>
+
+<update_guid_history>915f0b596b0c6010eb79c2d65d1450aa:764656320,5d5f0b59460c60101bb8e21ef8886d98:-884641120</update_guid_history>
+
+<update_set display_value=""/>
+
+<view>0ce54027b33232007a6de81816a8dca1</view>
+
+</sys_update_xml>
+
+
+-<sys_update_xml action="INSERT_OR_UPDATE">
+
+<action>INSERT_OR_UPDATE</action>
+
+<application display_value="Global">global</application>
+
+<category>customer</category>
+
+<comments/>
+
+<name>sys_security_acl_role_2e2f4759e50c60107f4423e301331c12</name>
+
+
+-<payload>
+
+-<![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 15:38:17</sys_created_on><sys_id>2e2f4759e50c60107f4423e301331c12</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_instance_of_kb_articles_events.u_instance_of_kb_articles_events_user</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_security_acl display_value="u_instance_of_kb_articles_events">ea2f4759e50c60107f4423e301331c0f</sys_security_acl><sys_update_name>sys_security_acl_role_2e2f4759e50c60107f4423e301331c12</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 15:38:17</sys_updated_on><sys_user_role display_value="u_instance_of_kb_articles_events_user" name="u_instance_of_kb_articles_events_user">de2f4359e50c60107f4423e301331c52</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]>
+</payload>
+
+<payload_hash>1340572471</payload_hash>
+
+<remote_update_set display_value="Service Portal Advance class - global">3a057f15e54c60107f4423e301331cec</remote_update_set>
+
+<replace_on_upgrade>false</replace_on_upgrade>
+
+<sys_created_by>admin</sys_created_by>
+
+<sys_created_on>2020-10-23 18:23:47</sys_created_on>
+
+<sys_id>be057f15e54c60107f4423e301331cee</sys_id>
+
+<sys_mod_count>0</sys_mod_count>
+
+<sys_recorded_at>175561c4fef0000001</sys_recorded_at>
+
+<sys_updated_by>admin</sys_updated_by>
+
+<sys_updated_on>2020-10-23 18:23:47</sys_updated_on>
+
+<table>u_instance_of_kb_articles_events</table>
+
+<target_name>u_instance_of_kb_articles_events.u_instance_of_kb_articles_events_user</target_name>
+
+<type>Access Roles</type>
+
+<update_domain>global</update_domain>
+
+<update_guid>ae2f4759720c60100997e0d92e618814</update_guid>
+
+<update_guid_history>ae2f4759720c60100997e0d92e618814:1340572471</update_guid_history>
+
+<update_set display_value=""/>
+
+<view/>
+
+</sys_update_xml>
+
+
+-<sys_update_xml action="INSERT_OR_UPDATE">
+
+<action>INSERT_OR_UPDATE</action>
+
+<application display_value="Global">global</application>
+
+<category>customer</category>
+
+<comments/>
+
+<name>sys_db_object_201f0759e50c60107f4423e301331c15</name>
+
+
+-<payload>
+
+-<![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access>public</access><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>true</create_access_controls><delete_access>false</delete_access><extension_model/><is_extendable>false</is_extendable><label>Instance of KB Articles - Events</label><live_feed_enabled>false</live_feed_enabled><name>u_instance_of_kb_articles_events</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class display_value="Instance" name="sp_instance">1d011fc42d5610107f4442beff93c4e1</super_class><sys_class_code/><sys_class_name>sys_db_object</sys_class_name><sys_class_path/><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 15:38:16</sys_created_on><sys_id>201f0759e50c60107f4423e301331c15</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Instance of KB Articles - Events</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_db_object_201f0759e50c60107f4423e301331c15</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 15:38:16</sys_updated_on><update_access>false</update_access><user_role display_value="u_instance_of_kb_articles_events_user" name="u_instance_of_kb_articles_events_user">de2f4359e50c60107f4423e301331c52</user_role><ws_access>true</ws_access></sys_db_object></record_update>]]>
+</payload>
+
+<payload_hash>1270256465</payload_hash>
+
+<remote_update_set display_value="Service Portal Advance class - global">3a057f15e54c60107f4423e301331cec</remote_update_set>
+
+<replace_on_upgrade>false</replace_on_upgrade>
+
+<sys_created_by>admin</sys_created_by>
+
+<sys_created_on>2020-10-23 18:23:47</sys_created_on>
+
+<sys_id>f2057f15e54c60107f4423e301331ced</sys_id>
+
+<sys_mod_count>0</sys_mod_count>
+
+<sys_recorded_at>175561c51bd0000001</sys_recorded_at>
+
+<sys_updated_by>admin</sys_updated_by>
+
+<sys_updated_on>2020-10-23 18:23:47</sys_updated_on>
+
+<table>u_instance_of_kb_articles_events</table>
+
+<target_name>Instance of KB Articles - Events</target_name>
+
+<type>Table</type>
+
+<update_domain>global</update_domain>
+
+<update_guid>262f47594b0c6010efafa169be19ec34</update_guid>
+
+<update_guid_history>262f47594b0c6010efafa169be19ec34:1270256465</update_guid_history>
+
+<update_set display_value=""/>
+
+<view/>
+
+</sys_update_xml>
+
+
+-<sys_update_xml action="INSERT_OR_UPDATE">
+
+<action>INSERT_OR_UPDATE</action>
+
+<application display_value="Global">global</application>
+
+<category>customer</category>
+
+<comments/>
+
+<name>sys_ui_section_515f0b59e50c60107f4423e301331c8c</name>
+
+
+-<payload>
+
+-<![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Color, Placement, Size" section_id="515f0b59e50c60107f4423e301331c8c" sys_domain="global" table="u_instance_of_kb_articles_events" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>color</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 15:39:01</sys_created_on><sys_id>555f0b59e50c60107f4423e301331c8d</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Color, Placement, Size" display_value="Color, Placement, Size" name="u_instance_of_kb_articles_events" sys_domain="global" view="Default view">515f0b59e50c60107f4423e301331c8c</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 15:39:01</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>glyph</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 15:39:01</sys_created_on><sys_id>d95f0b59e50c60107f4423e301331c8d</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Color, Placement, Size" display_value="Color, Placement, Size" name="u_instance_of_kb_articles_events" sys_domain="global" view="Default view">515f0b59e50c60107f4423e301331c8c</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 15:39:01</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>id</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 15:39:01</sys_created_on><sys_id>515f0b59e50c60107f4423e301331c8e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Color, Placement, Size" display_value="Color, Placement, Size" name="u_instance_of_kb_articles_events" sys_domain="global" view="Default view">515f0b59e50c60107f4423e301331c8c</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 15:39:01</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>class_name</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 15:39:01</sys_created_on><sys_id>d55f0b59e50c60107f4423e301331c8e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Color, Placement, Size" display_value="Color, Placement, Size" name="u_instance_of_kb_articles_events" sys_domain="global" view="Default view">515f0b59e50c60107f4423e301331c8c</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 15:39:01</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>size</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 15:39:01</sys_created_on><sys_id>5d5f0b59e50c60107f4423e301331c8e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Color, Placement, Size" display_value="Color, Placement, Size" name="u_instance_of_kb_articles_events" sys_domain="global" view="Default view">515f0b59e50c60107f4423e301331c8c</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 15:39:01</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 15:39:01</sys_created_on><sys_id>d15f0b59e50c60107f4423e301331c8f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Color, Placement, Size" display_value="Color, Placement, Size" name="u_instance_of_kb_articles_events" sys_domain="global" view="Default view">515f0b59e50c60107f4423e301331c8c</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 15:39:01</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>active</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 15:39:01</sys_created_on><sys_id>595f0b59e50c60107f4423e301331c8f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Color, Placement, Size" display_value="Color, Placement, Size" name="u_instance_of_kb_articles_events" sys_domain="global" view="Default view">515f0b59e50c60107f4423e301331c8c</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 15:39:01</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>sys_scope</element><position>7</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 15:39:01</sys_created_on><sys_id>dd5f0b59e50c60107f4423e301331c8f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Color, Placement, Size" display_value="Color, Placement, Size" name="u_instance_of_kb_articles_events" sys_domain="global" view="Default view">515f0b59e50c60107f4423e301331c8c</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 15:39:01</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>sp_column</element><position>8</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 15:39:01</sys_created_on><sys_id>555f0b59e50c60107f4423e301331c90</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Color, Placement, Size" display_value="Color, Placement, Size" name="u_instance_of_kb_articles_events" sys_domain="global" view="Default view">515f0b59e50c60107f4423e301331c8c</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 15:39:01</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>order</element><position>9</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 15:39:01</sys_created_on><sys_id>d95f0b59e50c60107f4423e301331c90</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Color, Placement, Size" display_value="Color, Placement, Size" name="u_instance_of_kb_articles_events" sys_domain="global" view="Default view">515f0b59e50c60107f4423e301331c8c</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 15:39:01</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>10</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 15:39:01</sys_created_on><sys_id>515f0b59e50c60107f4423e301331c91</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Color, Placement, Size" display_value="Color, Placement, Size" name="u_instance_of_kb_articles_events" sys_domain="global" view="Default view">515f0b59e50c60107f4423e301331c8c</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 15:39:01</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>short_description</element><position>11</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 15:39:01</sys_created_on><sys_id>d55f0b59e50c60107f4423e301331c91</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Color, Placement, Size" display_value="Color, Placement, Size" name="u_instance_of_kb_articles_events" sys_domain="global" view="Default view">515f0b59e50c60107f4423e301331c8c</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 15:39:01</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>css</element><position>12</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 15:39:01</sys_created_on><sys_id>5d5f0b59e50c60107f4423e301331c91</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Color, Placement, Size" display_value="Color, Placement, Size" name="u_instance_of_kb_articles_events" sys_domain="global" view="Default view">515f0b59e50c60107f4423e301331c8c</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 15:39:01</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>url</element><position>13</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 15:39:01</sys_created_on><sys_id>d15f0b59e50c60107f4423e301331c92</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Color, Placement, Size" display_value="Color, Placement, Size" name="u_instance_of_kb_articles_events" sys_domain="global" view="Default view">515f0b59e50c60107f4423e301331c8c</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 15:39:01</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>widget_parameters</element><position>14</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 15:39:01</sys_created_on><sys_id>595f0b59e50c60107f4423e301331c92</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Color, Placement, Size" display_value="Color, Placement, Size" name="u_instance_of_kb_articles_events" sys_domain="global" view="Default view">515f0b59e50c60107f4423e301331c8c</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 15:39:01</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Color, Placement, Size</caption><header>false</header><name>u_instance_of_kb_articles_events</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 15:39:01</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>515f0b59e50c60107f4423e301331c8c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_instance_of_kb_articles_events</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ui_section_515f0b59e50c60107f4423e301331c8c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 15:39:01</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]>
+</payload>
+
+<payload_hash>-1146235588</payload_hash>
+
+<remote_update_set display_value="Service Portal Advance class - global">3a057f15e54c60107f4423e301331cec</remote_update_set>
+
+<replace_on_upgrade>false</replace_on_upgrade>
+
+<sys_created_by>admin</sys_created_by>
+
+<sys_created_on>2020-10-23 18:23:47</sys_created_on>
+
+<sys_id>f2057f15e54c60107f4423e301331cf0</sys_id>
+
+<sys_mod_count>0</sys_mod_count>
+
+<sys_recorded_at>175561cfcad0000001</sys_recorded_at>
+
+<sys_updated_by>admin</sys_updated_by>
+
+<sys_updated_on>2020-10-23 18:23:47</sys_updated_on>
+
+<table>u_instance_of_kb_articles_events</table>
+
+<target_name>Instance of KB Articles - Events</target_name>
+
+<type>Form Layout</type>
+
+<update_domain>global</update_domain>
+
+<update_guid>1d5f0b594e0c601040776bf2cc82c694</update_guid>
+
+<update_guid_history>1d5f0b594e0c601040776bf2cc82c694:-1146235588</update_guid_history>
+
+<update_set display_value=""/>
+
+<view/>
+
+</sys_update_xml>
+
+
+-<sys_update_xml action="INSERT_OR_UPDATE">
+
+<action>INSERT_OR_UPDATE</action>
+
+<application display_value="Global">global</application>
+
+<category>customer</category>
+
+<comments/>
+
+<name>sys_security_acl_role_ea2f4759e50c60107f4423e301331c0c</name>
+
+
+-<payload>
+
+-<![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 15:38:17</sys_created_on><sys_id>ea2f4759e50c60107f4423e301331c0c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_instance_of_kb_articles_events.u_instance_of_kb_articles_events_user</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_security_acl display_value="u_instance_of_kb_articles_events">e22f0759e50c60107f4423e301331cfd</sys_security_acl><sys_update_name>sys_security_acl_role_ea2f4759e50c60107f4423e301331c0c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 15:38:17</sys_updated_on><sys_user_role display_value="u_instance_of_kb_articles_events_user" name="u_instance_of_kb_articles_events_user">de2f4359e50c60107f4423e301331c52</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]>
+</payload>
+
+<payload_hash>-1224735340</payload_hash>
+
+<remote_update_set display_value="Service Portal Advance class - global">3a057f15e54c60107f4423e301331cec</remote_update_set>
+
+<replace_on_upgrade>false</replace_on_upgrade>
+
+<sys_created_by>admin</sys_created_by>
+
+<sys_created_on>2020-10-23 18:23:47</sys_created_on>
+
+<sys_id>f6057f15e54c60107f4423e301331cef</sys_id>
+
+<sys_mod_count>0</sys_mod_count>
+
+<sys_recorded_at>175561c4fba0000001</sys_recorded_at>
+
+<sys_updated_by>admin</sys_updated_by>
+
+<sys_updated_on>2020-10-23 18:23:47</sys_updated_on>
+
+<table>u_instance_of_kb_articles_events</table>
+
+<target_name>u_instance_of_kb_articles_events.u_instance_of_kb_articles_events_user</target_name>
+
+<type>Access Roles</type>
+
+<update_domain>global</update_domain>
+
+<update_guid>6e2f4759620c6010997faf9990afb40e</update_guid>
+
+<update_guid_history>6e2f4759620c6010997faf9990afb40e:-1224735340</update_guid_history>
+
+<update_set display_value=""/>
+
+<view/>
+
+</sys_update_xml>
+
+
+-<sys_update_xml action="INSERT_OR_UPDATE">
+
+<action>INSERT_OR_UPDATE</action>
+
+<application display_value="Global">global</application>
+
+<category>customer</category>
+
+<comments/>
+
+<name>sys_security_acl_ea2f4759e50c60107f4423e301331c0f</name>
+
+
+-<payload>
+
+-<![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on u_instance_of_kb_articles_events</description><name>u_instance_of_kb_articles_events</name><operation display_value="write">write</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 15:38:17</sys_created_on><sys_id>ea2f4759e50c60107f4423e301331c0f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_instance_of_kb_articles_events</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_security_acl_ea2f4759e50c60107f4423e301331c0f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 15:38:17</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]>
+</payload>
+
+<payload_hash>1652180957</payload_hash>
+
+<remote_update_set display_value="Service Portal Advance class - global">3a057f15e54c60107f4423e301331cec</remote_update_set>
+
+<replace_on_upgrade>false</replace_on_upgrade>
+
+<sys_created_by>admin</sys_created_by>
+
+<sys_created_on>2020-10-23 18:23:47</sys_created_on>
+
+<sys_id>fa057f15e54c60107f4423e301331cee</sys_id>
+
+<sys_mod_count>0</sys_mod_count>
+
+<sys_recorded_at>175561c4fd70000001</sys_recorded_at>
+
+<sys_updated_by>admin</sys_updated_by>
+
+<sys_updated_on>2020-10-23 18:23:47</sys_updated_on>
+
+<table>u_instance_of_kb_articles_events</table>
+
+<target_name>u_instance_of_kb_articles_events</target_name>
+
+<type>Access Control</type>
+
+<update_domain>global</update_domain>
+
+<update_guid>ae2f47595d0c6010238669e072e9ac11</update_guid>
+
+<update_guid_history>ae2f47595d0c6010238669e072e9ac11:1652180957</update_guid_history>
+
+<update_set display_value=""/>
+
+<view/>
+
+</sys_update_xml>
+
+
+-<sys_update_xml action="INSERT_OR_UPDATE">
+
+<action>INSERT_OR_UPDATE</action>
+
+<application display_value="Global">global</application>
+
+<category>customer</category>
+
+<comments/>
+
+<name>sys_documentation_u_instance_of_kb_articles_events__en</name>
+
+
+-<payload>
+
+-<![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="" label="Instance of KB Articles - Events" language="en" table="u_instance_of_kb_articles_events"><sys_documentation action="INSERT_OR_UPDATE"><element/><help/><hint/><label>Instance of KB Articles - Events</label><language>en</language><name>u_instance_of_kb_articles_events</name><plural>Instance of KB Articles - Events</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 15:38:17</sys_created_on><sys_id>2a2f4759e50c60107f4423e301331c25</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Instance of KB Articles - Events</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_documentation_u_instance_of_kb_articles_events__en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 15:38:17</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]>
+</payload>
+
+<payload_hash>1561872706</payload_hash>
+
+<remote_update_set display_value="Service Portal Advance class - global">3a057f15e54c60107f4423e301331cec</remote_update_set>
+
+<replace_on_upgrade>false</replace_on_upgrade>
+
+<sys_created_by>admin</sys_created_by>
+
+<sys_created_on>2020-10-23 18:23:47</sys_created_on>
+
+<sys_id>fe057f15e54c60107f4423e301331ced</sys_id>
+
+<sys_mod_count>0</sys_mod_count>
+
+<sys_recorded_at>175561c51b10000001</sys_recorded_at>
+
+<sys_updated_by>admin</sys_updated_by>
+
+<sys_updated_on>2020-10-23 18:23:47</sys_updated_on>
+
+<table>u_instance_of_kb_articles_events</table>
+
+<target_name>Instance of KB Articles - Events</target_name>
+
+<type>Field Label</type>
+
+<update_domain>global</update_domain>
+
+<update_guid>ae2f4759850c60105bc70cdb62bdff32</update_guid>
+
+<update_guid_history>ae2f4759850c60105bc70cdb62bdff32:1561872706</update_guid_history>
+
+<update_set display_value=""/>
+
+<view/>
+
+</sys_update_xml>
+
+
+-<sys_update_xml action="INSERT_OR_UPDATE">
+
+<action>INSERT_OR_UPDATE</action>
+
+<application display_value="Global">global</application>
+
+<category>customer</category>
+
+<comments/>
+
+<name>sys_ui_section_dd5f0b59e50c60107f4423e301331c80</name>
+
+
+-<payload>
+
+-<![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Widget" section_id="dd5f0b59e50c60107f4423e301331c80" sys_domain="global" table="u_instance_of_kb_articles_events" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>sp_widget</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 15:39:01</sys_created_on><sys_id>515f0b59e50c60107f4423e301331c83</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Widget" display_value="Widget" name="u_instance_of_kb_articles_events" sys_domain="global" view="Default view">dd5f0b59e50c60107f4423e301331c80</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 15:39:01</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Widget</caption><header>false</header><name>u_instance_of_kb_articles_events</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 15:39:01</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>dd5f0b59e50c60107f4423e301331c80</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_instance_of_kb_articles_events</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ui_section_dd5f0b59e50c60107f4423e301331c80</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 15:39:01</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]>
+</payload>
+
+<payload_hash>-1435989543</payload_hash>
+
+<remote_update_set display_value="Service Portal Advance class - global">3a057f15e54c60107f4423e301331cec</remote_update_set>
+
+<replace_on_upgrade>false</replace_on_upgrade>
+
+<sys_created_by>admin</sys_created_by>
+
+<sys_created_on>2020-10-23 18:23:47</sys_created_on>
+
+<sys_id>fe057f15e54c60107f4423e301331cf0</sys_id>
+
+<sys_mod_count>0</sys_mod_count>
+
+<sys_recorded_at>175561cfc050000001</sys_recorded_at>
+
+<sys_updated_by>admin</sys_updated_by>
+
+<sys_updated_on>2020-10-23 18:23:47</sys_updated_on>
+
+<table>u_instance_of_kb_articles_events</table>
+
+<target_name>Instance of KB Articles - Events</target_name>
+
+<type>Form Layout</type>
+
+<update_domain>global</update_domain>
+
+<update_guid>5d5f0b591b0c6010e8644c11a0d09484</update_guid>
+
+<update_guid_history>5d5f0b591b0c6010e8644c11a0d09484:-1435989543</update_guid_history>
+
+<update_set display_value=""/>
+
+<view/>
+
+</sys_update_xml>
+
+</unload>
