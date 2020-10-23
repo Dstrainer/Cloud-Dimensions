@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">60cbe6d5e5c860107f4423e301331c54</sp_column>
+        <sp_widget display_value="Table Summary">5205ee51e5c860107f4423e301331c0d</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-23 13:03:42</sys_created_on>
+        <sys_id>1acbe6d5e5c860107f4423e301331c84</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Cloud Dimensions Events" source="x_snc_cloudevents">77108b70610813007f44e59882b97a67</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cloud Dimensions Events">77108b70610813007f44e59882b97a67</sys_scope>
+        <sys_update_name>sp_instance_1acbe6d5e5c860107f4423e301331c84</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-23 13:03:42</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=1acbe6d5e5c860107f4423e301331c84"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Cloud Dimensions Events">77108b70610813007f44e59882b97a67</application>
+        <file_path/>
+        <instance_id>546308fc1bcce010e77bed77624bcb97</instance_id>
+        <instance_name>spa-oct-909-007</instance_name>
+        <name>sp_instance_1acbe6d5e5c860107f4423e301331c84</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>1</order><roles/><short_description/><size>md</size><sp_column display_value="1">60cbe6d5e5c860107f4423e301331c54</sp_column><sp_widget display_value="Table Summary">5205ee51e5c860107f4423e301331c0d</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 13:03:42</sys_created_on><sys_id>1acbe6d5e5c860107f4423e301331c84</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Cloud Dimensions Events" source="x_snc_cloudevents">77108b70610813007f44e59882b97a67</sys_package><sys_policy/><sys_scope display_value="Cloud Dimensions Events">77108b70610813007f44e59882b97a67</sys_scope><sys_update_name>sp_instance_1acbe6d5e5c860107f4423e301331c84</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 13:03:42</sys_updated_on><title/><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=1acbe6d5e5c860107f4423e301331c84"/></record_update>]]></payload>
+        <payload_hash>1485812831</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>4c760e81e58060107f4423e301331ccf</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-23 13:03:42</sys_created_on>
+        <sys_id>d2cbe6d5e5c860107f4423e301331c87</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>175558ecb440000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-23 13:03:42</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>1ecbe6d5dcc86010f676a21895644286</update_guid>
+        <update_guid_history>1ecbe6d5dcc86010f676a21895644286:1485812831</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">ea2ecfd5e50c60107f4423e301331c12</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-23 15:33:55</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>a8741e47dc934351aef49ecf8599a669</sys_id>
+        <sys_metadata>1acbe6d5e5c860107f4423e301331c84</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Cloud Dimensions Events" source="x_snc_cloudevents">77108b70610813007f44e59882b97a67</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Cloud Dimensions Events">77108b70610813007f44e59882b97a67</sys_scope>
+        <sys_scope_delete display_value="">138146ecda3441d3867e598472462431</sys_scope_delete>
+        <sys_update_name>sp_instance_1acbe6d5e5c860107f4423e301331c84</sys_update_name>
+        <sys_update_version display_value="sp_instance_1acbe6d5e5c860107f4423e301331c84">d2cbe6d5e5c860107f4423e301331c87</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-23 15:33:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
